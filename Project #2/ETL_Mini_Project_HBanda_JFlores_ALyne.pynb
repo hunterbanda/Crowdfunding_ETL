@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 31,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -21,7 +21,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 3,
+=======
+   "execution_count": 32,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -187,7 +191,11 @@
        "4      False           theater/plays  "
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 3,
+=======
+     "execution_count": 32,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -200,7 +208,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 4,
+=======
+   "execution_count": 33,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -501,7 +513,11 @@
        "[1000 rows x 15 columns]"
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 4,
+=======
+     "execution_count": 33,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -513,7 +529,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 5,
+=======
+   "execution_count": 34,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -570,7 +590,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 7,
+=======
+   "execution_count": 35,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -582,7 +606,11 @@
        "      dtype='object')"
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 7,
+=======
+     "execution_count": 35,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -594,7 +622,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 8,
+=======
+   "execution_count": 36,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -772,7 +804,11 @@
        "4      False           theater/plays     theater        plays  "
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 8,
+=======
+     "execution_count": 36,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -785,7 +821,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 9,
+=======
+   "execution_count": 37,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -813,7 +853,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 10,
+=======
+   "execution_count": 38,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -833,7 +877,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 11,
+=======
+   "execution_count": 39,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -856,7 +904,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 12,
+=======
+   "execution_count": 40,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -882,7 +934,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 13,
+=======
+   "execution_count": 41,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [],
    "source": [
@@ -897,7 +953,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 14,
+=======
+   "execution_count": 42,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -988,7 +1048,11 @@
        "8        cat9    journalism"
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 14,
+=======
+     "execution_count": 42,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -999,7 +1063,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 15,
+=======
+   "execution_count": 43,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -1180,7 +1248,11 @@
        "23       subcat24              audio"
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 15,
+=======
+     "execution_count": 43,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1191,7 +1263,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 16,
+=======
+   "execution_count": 44,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1230,7 +1306,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 18,
+=======
+   "execution_count": 45,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -1408,7 +1488,11 @@
        "4      False           theater/plays     theater        plays  "
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 18,
+=======
+     "execution_count": 45,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1421,7 +1505,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 19,
+=======
+   "execution_count": 46,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -1599,7 +1687,11 @@
        "4      False           theater/plays     theater        plays  "
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 19,
+=======
+     "execution_count": 46,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1612,7 +1704,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 20,
+=======
+   "execution_count": 47,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [],
    "source": [
@@ -1623,7 +1719,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 21,
+=======
+   "execution_count": 48,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -1649,7 +1749,11 @@
        "dtype: object"
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 21,
+=======
+     "execution_count": 48,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1661,7 +1765,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 22,
+=======
+   "execution_count": 49,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
@@ -1839,7 +1947,11 @@
        "4       False      False           theater/plays     theater        plays  "
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 22,
+=======
+     "execution_count": 49,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -1854,8 +1966,15 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 23,
    "metadata": {},
+=======
+   "execution_count": 50,
+   "metadata": {
+    "scrolled": false
+   },
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "outputs": [
     {
      "data": {
@@ -2186,7 +2305,11 @@
        "999        food trucks        cat1        subcat1  "
       ]
      },
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
      "execution_count": 23,
+=======
+     "execution_count": 50,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -2202,7 +2325,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 24,
+=======
+   "execution_count": 51,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2215,7 +2342,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 25,
+=======
+   "execution_count": 52,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [],
    "source": [
@@ -2232,7 +2363,209 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD:Project #2/ETL_Mini_Project_Starter_Code.ipynb
    "execution_count": 57,
+=======
+   "execution_count": 53,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th></th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>0</th>\n",
+       "      <td>contact_info</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>1</th>\n",
+       "      <td>{\"contact_id\": 4661, \"name\": \"Cecilia Velasco\", \"email\": \"cecilia.velasco@rodrigues.fr\"}</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>2</th>\n",
+       "      <td>{\"contact_id\": 3765, \"name\": \"Mariana Ellis\", \"email\": \"mariana.ellis@rossi.org\"}</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>3</th>\n",
+       "      <td>{\"contact_id\": 4187, \"name\": \"Sofie Woods\", \"email\": \"sofie.woods@riviere.com\"}</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>4</th>\n",
+       "      <td>{\"contact_id\": 4941, \"name\": \"Jeanette Iannotti\", \"email\": \"jeanette.iannotti@yahoo.com\"}</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                                                                                            \n",
+       "0                                                                               contact_info\n",
+       "1   {\"contact_id\": 4661, \"name\": \"Cecilia Velasco\", \"email\": \"cecilia.velasco@rodrigues.fr\"}\n",
+       "2          {\"contact_id\": 3765, \"name\": \"Mariana Ellis\", \"email\": \"mariana.ellis@rossi.org\"}\n",
+       "3            {\"contact_id\": 4187, \"name\": \"Sofie Woods\", \"email\": \"sofie.woods@riviere.com\"}\n",
+       "4  {\"contact_id\": 4941, \"name\": \"Jeanette Iannotti\", \"email\": \"jeanette.iannotti@yahoo.com\"}"
+      ]
+     },
+     "execution_count": 53,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Read the data into a Pandas DataFrame. Use the `header=2` parameter when reading in the data.\n",
+    "contact_info_df = pd.read_excel('Resources/contacts.xlsx', header=2)\n",
+    "contact_info_df.head()"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Create the Contacts DataFrame \n",
+    "---\n",
+    "**Create a Contacts DataFrame that has the following columns:**\n",
+    "- A column named \"contact_id\"  that contains the unique number of the contact person.\n",
+    "- A column named \"first_name\" that contains the first name of the contact person.\n",
+    "- A column named \"last_name\" that contains the first name of the contact person.\n",
+    "- A column named \"email\" that contains the email address of the contact person\n",
+    "\n",
+    "Then export the DataFrame as a `contacts.csv` CSV file."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Option 1: Use Pandas to create the contacts DataFrame."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 54,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[]\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Iterate through the contact_info_df and convert each row to a dictionary.\n",
+    "import json\n",
+    "dict_values = []\n",
+    "\n",
+    "\n",
+    "# Print out the list of values for each row.\n",
+    "print(dict_values)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 55,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Create a contact_info DataFrame and add each list of values, i.e., each row \n",
+    "# to the 'contact_id', 'name', 'email' columns.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 56,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Check the datatypes.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 57,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Create a \"first\"name\" and \"last_name\" column with the first and last names from the \"name\" column. \n",
+    "\n",
+    "\n",
+    "# Drop the contact_name column\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 58,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Reorder the columns\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 59,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Check the datatypes one more time before exporting as CSV file.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 60,
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "NameError",
+     "evalue": "name 'contacts_df_clean' is not defined",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[60], line 2\u001b[0m\n\u001b[1;32m      1\u001b[0m \u001b[38;5;66;03m# Export the DataFrame as a CSV file. \u001b[39;00m\n\u001b[0;32m----> 2\u001b[0m \u001b[43mcontacts_df_clean\u001b[49m\u001b[38;5;241m.\u001b[39mto_csv(\u001b[38;5;124m\"\u001b[39m\u001b[38;5;124mResources/contacts.csv\u001b[39m\u001b[38;5;124m\"\u001b[39m, encoding\u001b[38;5;241m=\u001b[39m\u001b[38;5;124m'\u001b[39m\u001b[38;5;124mutf8\u001b[39m\u001b[38;5;124m'\u001b[39m, index\u001b[38;5;241m=\u001b[39m\u001b[38;5;28;01mFalse\u001b[39;00m)\n",
+      "\u001b[0;31mNameError\u001b[0m: name 'contacts_df_clean' is not defined"
+     ]
+    }
+   ],
+   "source": [
+    "# Export the DataFrame as a CSV file. \n",
+    "contacts_df_clean.to_csv(\"Resources/contacts.csv\", encoding='utf8', index=False)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Option 2: Use regex to create the contacts DataFrame."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+>>>>>>> c91fad336b2c2d33d8a9ba36d710788c7bc2988d:Project #2/ETL_Mini_Project_HBanda_JFlores_ALyne.pynb
    "metadata": {},
    "outputs": [
     {
